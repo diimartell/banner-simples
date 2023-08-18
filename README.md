@@ -1,11 +1,10 @@
 # banner-simples
 Banner simples, desenvolvido no curso de Programação Fullstack no Senac do Porto Digital.
 
-# Preview 
+## Preview 
 
 ![preview](https://github.com/diimartell/banner-simples/assets/107155342/3b550b5c-79ef-473e-a898-c0a48016280c)
 
-# Tecnologias Usadas
+## Tecnologias Usadas
 
-- HTML
-- CSS
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
