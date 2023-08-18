@@ -1,4 +1,5 @@
-# banner-simples
+# Banner Simples <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/8879/8879179.png" />
+
 Banner simples, desenvolvido no curso de Programação Fullstack no Senac do Porto Digital.
 
 ## Preview 
